@@ -1,4 +1,3 @@
-# NIDS-NSL-KDD
 # Network Intrusion Detection with Machine Learning
 
 A machine learning model that looks at a network connection and decides if it is **normal** or an **attack**.
